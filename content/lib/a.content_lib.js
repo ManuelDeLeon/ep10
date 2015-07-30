@@ -1,0 +1,1 @@
+console.log("/content/lib/a.js");
